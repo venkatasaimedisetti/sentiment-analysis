@@ -48,23 +48,23 @@ Edit
 ```bash
 git clone https://github.com/<your-username>/sentiment-analysis.git
 cd sentiment-analysis
-2. Create and Activate a Virtual Environment
+### 2. Create and Activate a Virtual Environment
 bash
 Copy
 Edit
 python -m venv venv
 venv\Scripts\activate    # On Windows
-3. Install Dependencies
+### 3. Install Dependencies
 bash
 Copy
 Edit
 pip install -r requirements.txt
-4. Train the Model (if not already trained)
+### 4. Train the Model (if not already trained)
 bash
 Copy
 Edit
 python src/train_model.py
-5. Run the Streamlit App
+### 5. Run the Streamlit App
 bash
 Copy
 Edit
