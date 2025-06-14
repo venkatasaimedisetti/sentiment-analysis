@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+*.egg-info/
+
+# Streamlit cache & logs
+.streamlit/
+*.log
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Model and dataset files
+data/
+models/
+*.csv
+*.tsv
+*.pkl
+*.joblib
+*.h5
+*.pt
+
+# Git LFS files (optional if you're not using Git LFS)
+*.zip
+*.gz
+*.tar
