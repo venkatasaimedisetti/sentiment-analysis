@@ -3,8 +3,12 @@ import joblib
 import re
 
 # Load model and vectorizer
+import joblib
+
+# Update paths to match correct location
+vectorizer = joblib.load('vectorizer.pkl')
 model = joblib.load('sentiment_model.pkl')
-vectorizer = joblib.load('models/vectorizer.pkl')
+
 
 def clean_text(text):
     text = text.lower()
