@@ -3,7 +3,7 @@ import joblib
 import re
 
 # Load model and vectorizer
-model = joblib.load('models/sentiment_model.pkl')
+model = joblib.load('sentiment_model.pkl')
 vectorizer = joblib.load('models/vectorizer.pkl')
 
 def clean_text(text):
