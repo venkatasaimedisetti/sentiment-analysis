@@ -1,6 +1,8 @@
 # 🧠 Sentiment Analysis on Amazon Fine Food Reviews
 
-This project builds a sentiment analysis web application using machine learning to classify Amazon food reviews as **positive**, **neutral**, or **negative**. It includes data preprocessing, model training, and deployment via Streamlit.
+This project builds a sentiment analysis web application using machine learning to classify Amazon food reviews as positive, neutral, or negative. It includes data preprocessing, model training, and deployment via Streamlit.
+
+🚀 **[Click here to try the live app on Streamlit](https://sentiment-analysis-wev6fvvvxzqovu7pk7doz3.streamlit.app/)**
 
 ---
 
