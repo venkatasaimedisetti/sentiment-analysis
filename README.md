@@ -36,15 +36,3 @@ sentiment-analysis/
 ├── .gitignore # Ignored files and folders
 ├── requirements.txt # Python dependencies
 └── README.md # Project overview
-
-yaml
-Copy
-Edit
-
----
-venv/
-__pycache__/
-*.pkl
-data/
-models/
-.DS_Store
