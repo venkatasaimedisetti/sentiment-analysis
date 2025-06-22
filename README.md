@@ -43,7 +43,7 @@ Edit
 
 ---
 
-## 🚀 How to Run the App Locally
+##  How to Run the App Locally
 
 ### 1. Clone the Repository
 
@@ -71,14 +71,14 @@ bash
 Copy
 Edit
 streamlit run src/app.py
-🌐 Deployment
+##  Deployment
 The app can be deployed using Streamlit Cloud
 
 Ensure app.py, requirements.txt, and model files are available in the repository root or configured correctly
 
 For large files, use .gitignore and avoid uploading data files > 100 MB to GitHub
 
-🔒 .gitignore Highlights
+ .gitignore Highlights
 kotlin
 Copy
 Edit
